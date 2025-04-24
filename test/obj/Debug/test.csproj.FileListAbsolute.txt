@@ -1,0 +1,11 @@
+D:\vissual\test\bin\Debug\test.exe.config
+D:\vissual\test\bin\Debug\test.exe
+D:\vissual\test\bin\Debug\test.pdb
+D:\vissual\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\vissual\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+D:\vissual\test\obj\Debug\test.Form1.resources
+D:\vissual\test\obj\Debug\test.Properties.Resources.resources
+D:\vissual\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\vissual\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\vissual\test\obj\Debug\test.exe
+D:\vissual\test\obj\Debug\test.pdb
